@@ -13,7 +13,7 @@ My journey involved:
 *   Training the model and evaluating its performance.
 *   Developing a script to make predictions on new races.
 
-## How It Works (The Technical Deep Dive by Shushank)
+## How It Works (The Technical Deep Dive )
 
 ### 1. Data Acquisition & Preprocessing
 
