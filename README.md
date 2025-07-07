@@ -1,4 +1,4 @@
-# F1 Race Winner Prediction using Transformer Architecture
+# F1 Race Winner Prediction using Transformer Architecture.
 
 Hello there! I'm Shushank, and I've been working on this exciting project to predict the winner of Formula 1 races using a Transformer neural network. This README will walk you through everything I've done, how the model works, how you can use it, and some important ethical considerations.
 
