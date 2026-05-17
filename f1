@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# Simple wrapper script to run the F1 Predictor CLI
+python -m src.cli "$@"
